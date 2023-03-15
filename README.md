@@ -5,9 +5,9 @@
 Since its inception, coinciding with the international crisis of 2008 and the associated lack of confidence in the financial system, bitcoin has gained an important place in the internat 
 ional financial landscape, attracting extensive media coverage, as well as the attention of regulators, government institutions, institutional and individual investors, academia, and the public in general.  However, they have also caused as many problems as they have seemingly solved.  Highly unregulated and volatile, their prices are mostly idiosyncratic, as they are mainly driven by behavioral factors and are uncorrelated with the major classes of financial assets. 
 
-(Source: https://jfin-swufe.springeropen.com/articles/10.1186/s40854-020-00217-x) 
-
 In this case study, we evaluate the efficacy of using unsupervised machine learning to analyze a dataset and determine the ability of different models to derive meaning, and drive predictability of different cryptocurrencies.
+
+###### (Source: https://jfin-swufe.springeropen.com/articles/10.1186/s40854-020-00217-x) 
 
 ## What is Unsupervised Machine Learning?
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
