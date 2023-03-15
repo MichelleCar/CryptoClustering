@@ -22,9 +22,7 @@ Like any tool, it is important to be aware of the limitations and challenges it 
 * Explainability: It can be very difficult to understanding exactly what the machine learning models are doing and how they make decisions. To mitigate this, it is important not to just accept the outcome, but instead to try and get a feeling of what are the ground rules that it came up with, as well as ensuring you have a plan to validate the output.
 * Bias and unintended outcomes: Machines are trained by humans, and human biases can be incorporated into algorithms — if biased information, or data that reflects existing inequities, is fed to a machine learning program, the program will learn to replicate it and perpetuate forms of discrimination.
 
-Sources:
-* https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
-* https://www.ibm.com/topics/machine-learning
+###### (Source: https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 
 ## Scope of Project
 
