@@ -35,7 +35,8 @@ Essentially, after preparing the data (normalizing a dataset using the StandardS
 #### K-means & Principal Component Analysis (PCA)
 The concept of "clustering" refers to the act of grouping observations, such that observations within the same group will be similar (or related) to one another and different from (or unrelated to) observations in other groups. Clustering is an unsupervised machine-learning technique. Determining clusters is done through the use of an algorithm.  
 
-K-Means Clustering is an Unsupervised Learning iterative algorithm, which groups an unlabeled dataset into different clusters in such a way that each dataset belongs only one group that has similar properties. The main aim of this algorithm is to minimize the sum of distances between the data point and their corresponding clusters.  
+K-Means Clustering is an Unsupervised Learning iterative algorithm, which groups an unlabeled dataset into different clusters in such a way that each dataset belongs only one group that has similar properties. The main aim of this algorithm is to minimize the sum of distances between the data point and their corresponding clusters. 
+
 Principal component analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
 
 A fundamental step for any unsupervised algorithm is to determine the optimal number of clusters into which the data may be clustered. The Elbow Method is one of the most popular methods to determine this optimal value. 
