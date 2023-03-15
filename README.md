@@ -35,12 +35,5 @@ Essentially, after preparing the data (normalizing a dataset using the StandardS
 #### K-means & Principal Component Analysis (PCA)
 The concept of "clustering" refers to the act of grouping observations, such that observations within the same group will be similar (or related) to one another and different from (or unrelated to) observations in other groups. Determining this is done through the use of an algorithm.
 
-K-means is a centroid-based clustering algorithm that works as follows:
-*  Random initialization: place k centroids randomly.
-*  Cluster assignment: assign each observation to the closest cluster based on the distance to centroids.
-*  Centroid update: move centroids to the means of observations of the same cluster.
-*  Repeat steps 2 and 3 until convergence is reached.
+K-means is a centroid-based clustering algorithm. PCA identifies the most meaningful basis to re-express data, using only the most meaningful portion (features) of the data, filtering out the noise and revealing hidden structures.  PCA works to decrease the dimensionality of large amounts of data. Combined, Principal Components Analysis (PCA) and K-means Clustering works to improve segmentation results.
 
-The goal of PCA is to identify the most meaningful basis to re-express data, using only the most meaningful portion (features) of the data, filtering out the noise and revealing hidden structures.
-
-Each works to decrease the dimensionality of large amounts of data. Cmbined, Principal Components Analysis (PCA) and K-means Clustering works to improve segmentation results.
