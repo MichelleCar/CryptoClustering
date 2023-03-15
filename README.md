@@ -86,7 +86,7 @@ After plotting the scattegram using the PCA results, we observe a much more well
 
 ![df_market_data_predictions_pca_plot](https://user-images.githubusercontent.com/115101031/225466840-25e97e46-b2b3-4a33-b888-34c7e124655f.png)
 
-### Conslusion
+### Conclusion
 After visually analyzing the cluster analysis results, the impact of using fewer features to cluster the data using K-Means was clear.
 
 1) Starting with the comparison of the elbow plots at k=4 (the number of clusters I decided on in both the original and PCA methods), it is clear that the PCA method yielded a stronger outcome, with an inertia value of 50%, compared to 79 for the original model. The lower the inertia, the better the clustering results.
